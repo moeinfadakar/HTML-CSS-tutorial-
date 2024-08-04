@@ -1,0 +1,131 @@
+#colorwhite{
+    color: white;
+}
+#colorwhite2{
+    color: white;
+background-color: rgb(23, 218, 120) !important;
+padding: 5px !important;
+height: 7vh;width: 11vh;text-align: left !important;
+}
+#nav{
+    padding: 0;
+}
+#ax{
+    height: 60vh !important;width: 100%;
+}
+#employee{
+    border: white 2px solid !important;
+    text-align: center !important;padding: 0%;background-color: white !important;border: white 1px solid !important;
+}
+.card-img-top{
+border-radius: 50% !important;
+width: 20vh;height: 20vh;
+}
+.btn{
+    background-color: white !important;
+    border: 2px solid white;
+}
+.card{
+    border-color: rgb(152, 144, 144) !important;
+text-align: center !important;
+
+}
+button:hover{
+border-color: white !important;
+}
+.card-img-top2{
+width: 37vh;
+height: 30vh;
+
+}
+p.card-textt{
+height: 70vh;
+
+
+}
+#q{ border: 2px gray solid; height: 90%; background-color: white; color: black;margin-top: 3%; padding: 2px;text-align: center;}
+#c{ border: 2px gray solid; height: 90%; background-color: white; color: black;margin-top: 3%; padding: 2px;text-align: center;}
+#w{ border: 2px gray solid; height: 90%; background-color: white; color: black;margin-top: 3%; padding: 2px;text-align: center;}
+.btn-success{
+    background-color: aqua !important;
+    color: black;border: 0px !important;
+}
+.btn-success:hover{
+    background-color: rgb(14, 114, 114) !important;
+    color: rgb(230, 215, 215);border: 0px !important;
+}
+#tc{
+    background-color: white !important;color: rgb(0, 0, 0) !important;
+}
+#ch{
+    background-color: rgb(0, 0, 0) !important;color: white;
+}
+.card-header{padding-top: 7% !important;
+    height: 15vh !important;
+}
+#pro{
+    background-color: rgb(75, 69, 69);color: rgb(255, 255, 255) !important;
+}
+#tb2{
+    background-color: white !important;color: rgb(0, 0, 0) !important;
+}
+#tb3{
+    background-color: white !important;color: rgb(0, 0, 0) !important;
+}
+#ch3{
+    background-color: rgb(0, 0, 0);color: white;
+}
+.text{
+color: black;
+}
+.text2{
+text-align: left;
+}
+#sub{
+background-color: black !important;color: white !important;
+}
+#img{
+    width: 100%;
+    height: 40vh;
+}
+#pedar{text-align: center !important;
+    width: 100%;height: 40vh;
+display: flex;flex-direction: column !important;
+
+}
+
+.kid{
+width: 10vh;background-color: aqua;
+height: 10vh;border: 0.5px solid black;
+}
+#pdrbozorg{height: 100vh;width: 100% !important;
+    display: flex !important;
+    flex-direction: row !important;
+justify-content: center !important;
+}
+#a6psar{
+    display: flex !important;
+    flex-direction: row !important;
+    width: 100%;height: 20%;justify-content: center;
+}.text4{
+    display: block !important;
+}
+#we{text-align: center;
+display: flex;flex-direction: row;justify-content: center;
+
+    width: 100%;height: 60vh;background-color: rgb(18, 18, 18);
+}#div-card{
+    background-color: rgb(18, 18, 18);border: rgb(18, 18, 18);
+}
+.btn-primary{
+
+
+}
+@media only screen and (max-width: 800px){
+#www{
+margin-top: 800px !important;}}
+@media only screen and (max-width: 1000px){
+    #www{
+        margin-top: 300px;
+    }
+}

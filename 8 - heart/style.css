@@ -1,0 +1,63 @@
+#vvv{
+border-style: solid;
+border-width: 30px;
+border-color: rgb(0, 183, 255);
+border-radius: 100px;
+background-color: rgb(255, 255, 255);
+width: 100px;
+height: 100px;
+border-top-right-radius: 0px;
+transform: rotate(40deg);
+}
+#ccc{
+    border-style: solid;
+border-width: 30px;
+border-color: rgb(0, 183, 255);
+border-radius: 100px;
+background-color: rgb(255, 255, 255);
+width: 100px;
+height: 100px;
+border-top-left-radius: 0px;
+transform: rotate(-40deg);
+position: absolute;
+top: 5px;
+left: 200px;
+}
+#ooo{
+width: 100px;
+height: 100px;
+transform: rotate(45deg);
+background-color: red;
+position: absolute;
+top: 250px;
+left: 100px;
+}
+#rrr{
+width: 103px;
+height: 103px;
+background-color: red;
+border-radius: 70px;
+position: absolute;
+left: 60px;
+top: 209px;
+}
+#zzz{
+    width: 103px;
+    height: 103px;
+    background-color: red;
+    border-radius: 70px;
+position: absolute;
+top: 209px;
+left: 135px;
+
+
+
+
+
+
+}
+
+
+
+
+

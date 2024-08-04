@@ -1,0 +1,48 @@
+body{
+
+
+}
+.spiner{
+position: fixed;
+top: 0;
+left: 0;
+width: 100vw;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: #f7f9fb;
+
+transition: opacity 0.75s,visibility 0.75s;
+}
+
+.loader-hiddden{
+opacity: 1;
+visibility: visible;
+}
+
+.spiner::after{
+    content: "";
+width: 350px;
+height: 350px;
+border: dotted 55px #21f0ff;
+border-top-color: #ee243c;
+border-right-color: #ffffff;
+border-left-color: #ffffff;
+border-bottom-color: #15b300;
+border-radius: 50%;
+animation: loading 0.75s ease infinite;
+background-color: rgb(226, 226, 226);
+}
+@keyframes loading {
+form{
+    transform: rotate(0turn);
+
+}
+to{
+transform: rotate(1turn);
+
+}
+
+
+}

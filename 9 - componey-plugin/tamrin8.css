@@ -1,0 +1,213 @@
+header{
+background-color: black;
+display: flex;
+padding: 1.5%;
+font-family: 'Courier New', Courier, monospace;}
+.cd{
+color: white;
+height: 100%;
+width: 10%;
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin: 0% -2% 0% -2%;
+
+}
+
+
+#www{
+width: 100%;
+height: 50%;
+
+
+}
+.ww{
+width: 100%;
+height: 40%;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+.er{
+margin-left: 7%;
+border-radius: 100%;
+
+}
+.qqq{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+.ere{margin-left: 11%;
+border-radius: 100%;
+
+
+
+}
+.ert{
+margin-left: 11%;
+border-radius: 100%;
+
+}
+.erv{
+    margin-left: 10%;
+    border-radius: 100%;
+
+
+
+
+}
+.pmc{
+width: 100%;
+height: 380px;
+background-color: rgb(41, 39, 39);
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+text-align: left;
+color: white;
+}
+.qwe{
+width: 22%;
+height: 80%;
+margin-top: 5%;
+background-color: white;
+border: 2px black solid;
+color: black;
+}
+#yyy{display: block;
+height: 5%;
+
+
+}
+#bbb{
+    background-color: rgb(41, 39, 39);
+width: 30%;
+height: 80%;
+
+
+}
+#cv{
+width: 100%;
+height: 50%;
+
+}
+#ooo{
+font-weight: 600;
+font-size: large;
+
+}h5{
+margin: 2%;
+
+
+}
+.baba{
+width: 100%;
+height: 400px;
+background-color: white;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+
+}.baby{
+width: 32%;
+height: 100%;
+background-color: white;
+border: 2px black solid;
+}
+.kadr{
+height: 20%;
+width: 100%;
+background-color: black;
+color: white;
+}
+.sss{
+height: 60%;
+width: 100%;
+text-align: center;
+}
+.rrr{
+height: 20%;
+width: 100%;
+background-color: lightgray;
+
+
+
+}#mnm{
+position: relative;
+top: 30%;
+left: 38%;
+background-color: rgb(14, 180, 94);
+padding: 7px 20px 7px 20px;
+border: 0px;
+color: white;
+}
+#mnm:hover{
+background-color: blue;
+
+
+}
+.baby{
+box-shadow: 10px -10px 4px rgb(230, 230, 230);
+
+
+}
+.con{
+width: 100%;
+height: 300px;
+background-color: rgb(246, 246, 246);
+
+}
+.con2{
+width: 60%;
+height: 80%;
+background-color: white;
+position: relative;
+left: 40%;
+top: -65%;
+
+}
+.kjh{
+text-decoration: underline aqua 4px;
+font-size: x-large;
+
+}
+.xxxx{
+background-color: black;
+width: 100%;
+height: 300px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;}
+.za{
+width: 3%;
+height: 9%;
+border: 2px solid aquamarine;
+margin: 0% 0.5% 0% 0.5%;
+background-color: aquamarine;
+}
+.mbm{
+position: relative;
+top: -18%;
+left: 15%;
+color: white;
+}
+.wer{
+color: white;
+position: relative;
+top: 20%;
+right: 15%;
+}
+
+.ggg{
+width: 70%;
+}
+#rtu{
+position: relative;
+left: 81%;
+bottom: 0.5%;
+background-color: black;
+padding: 3px 16px 3px 16px;
+color: white;
+
+
+}
